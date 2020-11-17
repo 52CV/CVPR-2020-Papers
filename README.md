@@ -4,7 +4,7 @@
   <img src="image/52CV.gif" width="600"/>
 </div>
 
-![demo image](image/cvpr.png)
+![demo image](image/cvpr2020.png)
 
 温故而知新！
 
