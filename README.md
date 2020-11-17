@@ -1,8 +1,10 @@
 # CVPR 2020 分方向论文大盘点合集
 
 <div align="center">
-  <img src="resource/52CV.gif" width="600"/>
+  <img src="image/52CV.gif" width="600"/>
 </div>
+
+![demo image](image/cvpr.png)
 
 温故而知新！
 
@@ -13,6 +15,16 @@ CVPR 2020 已告一段落
 以及领域顶会引用 Top 20论文
 
 欢迎’食用‘
+
+[主会](http://openaccess.thecvf.com/CVPR2020.py)
+
+[Workshop](http://openaccess.thecvf.com/CVPR2020_workshops/menu.py)
+
+主会总计1467篇主会录用论文，另外有40个workshop也公布了录用论文。
+
+大家可以在上述网页查看感兴趣的论文，所有论文均可直接下载。
+
+另外，在OpenCV中文网公众号后台回复“CVPR2020”，即可收到百度云下载链接。
 
 
 ## 1、[光流篇](https://zhuanlan.zhihu.com/p/158357172)
